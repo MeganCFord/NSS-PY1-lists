@@ -25,7 +25,7 @@ NSS Back-End Milestone 1 (Foundations) Exercise 4:
 
 
 ``` 
-git clone https://github.com/MeganCFord/NSS-PY1-dictionaries.git
+git clone https://github.com/MeganCFord/NSS-PY1-lists.git
 cd dictionaries
 python planets.py || python random_squared.py
 ```
